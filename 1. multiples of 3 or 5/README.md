@@ -11,5 +11,5 @@ $$\vert A \cup B \vert = \vert A \vert + \vert B \vert - \vert A \cap B \vert$$
 see [here](./main.py)
 ## Answer:
 <details>
-```233168```
+233168
 </details>
