@@ -7,4 +7,4 @@ _Created_: 2023-12-25
 
 [2. Even Fibonacci numbers](./2.%20Even%20Fibonacci%20numbers/README.md)
 
-[3. Largest Prime Factor/README.md]
+[3. Largest Prime Factor](./3.%20Largest%20Prime%20Factor/README.md)
