@@ -1,6 +1,8 @@
 # Even Fibonacci numbers - Project Euler
+
 [Website](https://projecteuler.net/problem=2)
-_Created_: 2023-12-25
+
+_Created: 2023-12-25_
 ## Problem
 The Fibonacci sequence is defined by the recurrence relation:
 $$F_n = F_{n-1} + F_{n-2}, \quad F_1 = 1, \quad F_2 = 2$$

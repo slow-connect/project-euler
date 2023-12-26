@@ -1,6 +1,8 @@
 # Largest Prime Factor - Project Euler
+
 [Website](https://projecteuler.net/problem=3)
-_Created_: 2023-12-25
+
+_Created: 2023-12-25_
 ## Problem
 What is the largest prime factor of the number $n = 600851475143$ ?
 ## Idea:
