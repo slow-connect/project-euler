@@ -3,8 +3,8 @@
 
 _Created_: 2023-12-25
 
-[1. Multiples of 3 and 5](./1.\ multiples\ of\ 3\ and\ 5/README.md)
+[1. Multiples of 3 and 5](./1.%20multiples%20of%203%20and%205/README.md)
 
-[2. Even Fibonacci numbers](./2.\ Even\ Fibonacci\ numbers/README.md)
+[2. Even Fibonacci numbers](./2.%20Even%20Fibonacci%20numbers/README.md)
 
 [3. Largest Prime Factor/README.md]
