@@ -1,5 +1,14 @@
 # 2. Even Fibonacci numbers - Project Euler
 
+
+<div style="text-align: left;">
+    [<-](../1.%20Multiples%20of%203%20and%205/README.md)
+</div>
+
+<div style="text-align: right;">
+    [->](../3.%20Largest%20Prime%20Factor/README.md)
+</div>
+
 [Website](https://projecteuler.net/problem=2)
 
 _Created: 2023-12-25_

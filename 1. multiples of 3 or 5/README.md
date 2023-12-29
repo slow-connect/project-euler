@@ -1,5 +1,13 @@
 # 1. Multiples of 3 and 5 - Project Euler
 
+<div style="text-align: left;">
+    [<-](../README.md)
+</div>
+
+<div style="text-align: right;">
+    [->](../2.%20Even%20Fibonacci%20Numbers/README.md)
+</div>
+
 [Website](https://projecteuler.net/problem=1)
 
 _Created: 2023-12-25_

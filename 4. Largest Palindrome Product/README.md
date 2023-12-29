@@ -1,4 +1,13 @@
 # 4. Largest Palindrome Product - Project Euler
+
+<div style="text-align: left;">
+    [<-](../3.%20Largest%20Prime%20Factor/README.md)
+</div>
+
+<div style="text-align: right;">
+    [->](5.%20Smallest%20Multiple/README.md)
+</div>
+
 [Website](https://projecteuler.net/problem=4)
 
 _Created: 2023-12-26_

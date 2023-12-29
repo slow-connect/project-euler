@@ -1,5 +1,14 @@
 # 3. Largest Prime Factor - Project Euler
 
+
+<div style="text-align: left;">
+    [<-](../2.%20Even%20Fibonacci%20Numbers/README.md)
+</div>
+
+<div style="text-align: right;">
+    [->](4.%20Largest%20Palindrome%20Product/README.md)
+</div>
+
 [Website](https://projecteuler.net/problem=3)
 
 _Created: 2023-12-25_
