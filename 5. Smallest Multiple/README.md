@@ -12,7 +12,10 @@ What is the smallest positive number that is evenly divisible by all of the numb
 ## Idea:
 - Numbers from $1$ to $20$ are not all primes, some are a composition of smaller primes.
 - We can use this to our advantage.
-- We can find all primes from $1$ to $20$ and multiply them all together to get the result.
+- We can find all primes $p$ from $1$ to $20$.
+- Then we can find the largest power $k$ of each prime $p$ that is less than $20$.
+$$p^k < 20$$
+- Then we can multiply all of these together to get the smallest number that is evenly divisible by all of the numbers from $1$ to $20$.
 
 ## Solution:
 <details>
