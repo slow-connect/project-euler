@@ -16,6 +16,9 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 - If it is, save it
 - Return the largest
 
+## Code:
+see [here](https://github.com/slow-connect/project-euler/blob/main/4.%20Largest%20Palindrome%20Product/main.py) for the code.
+
 ## Solution:
 <details>
 906609

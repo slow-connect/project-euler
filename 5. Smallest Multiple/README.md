@@ -17,6 +17,9 @@ What is the smallest positive number that is evenly divisible by all of the numb
 $$p^k < 20$$
 - Then we can multiply all of these together to get the smallest number that is evenly divisible by all of the numbers from $1$ to $20$.
 
+## Code:
+see [here](https://github.com/slow-connect/project-euler/blob/main/5.%20Smallest%20Multiple/main.py) for the code.
+
 ## Solution:
 <details>
 232792560
