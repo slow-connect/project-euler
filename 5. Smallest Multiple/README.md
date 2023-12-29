@@ -1,12 +1,5 @@
 # 5. Smallest Multiple
 
-<div style="text-align: left;">
-    [<-](../4.%20Largest%20Palindrome%20Product/README.md)
-</div>
-
-<div style="text-align: right;">
-    [->](../6.%20Sum%20Square%20Difference/README.md)
-</div>
 
 [Website](https://projecteuler.net/problem=5)
 
