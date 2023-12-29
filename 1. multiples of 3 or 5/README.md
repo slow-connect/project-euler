@@ -1,4 +1,4 @@
-# Multiples of 3 and 5 - Project Euler
+# 1. Multiples of 3 and 5 - Project Euler
 
 [Website](https://projecteuler.net/problem=1)
 

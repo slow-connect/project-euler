@@ -1,4 +1,4 @@
-# Largest Prime Factor - Project Euler
+# 3. Largest Prime Factor - Project Euler
 
 [Website](https://projecteuler.net/problem=3)
 

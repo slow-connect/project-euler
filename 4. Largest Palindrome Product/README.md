@@ -1,4 +1,4 @@
-# Largest Palindrome Product - Project Euler
+# 4. Largest Palindrome Product - Project Euler
 [Website](https://projecteuler.net/problem=4)
 
 _Created: 2023-12-26_

@@ -1,4 +1,4 @@
-# Even Fibonacci numbers - Project Euler
+# 2. Even Fibonacci numbers - Project Euler
 
 [Website](https://projecteuler.net/problem=2)
 
