@@ -36,7 +36,7 @@ Find the thirteen adjacent digits in the $1000$-digit number that have the great
 - We keep track of the largest product and update it accordingly.
 
 ## Code:
-see [here]() for the code.
+see [here](https://github.com/slow-connect/project-euler/blob/main/8.%20Largest%20Product%20in%20a%20Series/main.py) for the code.
 
 ## Answer:
 <details>

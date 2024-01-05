@@ -21,7 +21,7 @@ Find the product $abc$.
 - From there we can determine the range of $b$ and calculate $c$ from the condition $a + b + c = 1000$.
 
 ## Code
-See [here](https://github.com/slow-connect/project-euler/blob/main/8.%20Largest%20Product%20in%20a%20Series/main.py) for the code.
+See [here](https://github.com/slow-connect/project-euler/blob/main/9.%20Special%20Pythagorean%20Triplet/main.py) for the code.
 
 ## Solution
 <details>
