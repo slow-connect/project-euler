@@ -11,10 +11,12 @@ What is the $10001$st prime number?
 
 ## Idea:
 - We use the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) to find the $10001$st prime number.
-- We could use the Sieve of Eratosthenes recursively faster, but this is not necessary for this problem, we can adapt the `for` loop to be fast enough.
+- We start with a list of boolean values of some length $n$ (hoping that we have enough primes in the intervall)
+- We use a `for` loop to iterate over the list from $2$ to $n$. If the value is `True`, we know that the number is prime and set all multiples of this number to `False`. We increment our counter by $1$.
+- If the counter reaches $10001$, we have found our prime number, and break the loop.
 
 ## Code:
-see [here]() for the code.
+see [here](https://github.com/slow-connect/project-euler/blob/main/7.%2010001st%20Prime/main.py) for the code.
 
 ## Answer:
 
