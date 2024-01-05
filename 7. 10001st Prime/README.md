@@ -1,4 +1,4 @@
-# 7. $10001$st Prime
+# 7. $10001$st Prime - Project Euler
 
 [Website](https://projecteuler.net/problem=7)
 

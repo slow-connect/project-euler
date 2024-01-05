@@ -1,4 +1,4 @@
-# 6. Sum Square Difference
+# 6. Sum Square Difference - Project Euler
 
 
 [Website](https://projecteuler.net/problem=6)

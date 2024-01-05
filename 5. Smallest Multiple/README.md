@@ -1,4 +1,4 @@
-# 5. Smallest Multiple
+# 5. Smallest Multiple - Project Euler
 
 
 [Website](https://projecteuler.net/problem=5)

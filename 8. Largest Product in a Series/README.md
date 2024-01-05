@@ -1,4 +1,4 @@
-# 8. Largest Product in a Series
+# 8. Largest Product in a Series - Project Euler
 
 [Website](https://projecteuler.net/problem=8)
 
