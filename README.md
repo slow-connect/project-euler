@@ -24,3 +24,5 @@ _Created_: 2023-12-25
 [10. Summation of Primes](./10.%20Summation%20of%20Primes/README.md)
 
 [11. Largest Product in a Grid](./11.%20Largest%20Product%20in%20a%20Grid/README.md)
+
+[12. Highly Divisible Triangular Number](./12.%20Highly%20Divisible%20Triangular%20Number/README.md)
