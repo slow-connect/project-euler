@@ -16,7 +16,12 @@ How many such routes are there through a $20\times20$ grid?
 - So the problem is equivalent to find the number of permutation of these 40 moves.
 - This is given by:
 
-$$\frac{40!}{20!20!}$$
+$$\frac{40!}{20!\:20!}$$
 
 ## Code
 See [here](https://github.com/slow-connect/project-euler/blob/main/015%20Lattice%20Paths/main.py) for the code
+
+## Solution
+<details>
+137846528820
+</details>
