@@ -18,8 +18,8 @@ def main():
     while True:
         x = euler(n)
         if num_divisors(x) >= 500:
-            print(x)
+            return x
             break
         n += 1
 
-main()
+print(main())

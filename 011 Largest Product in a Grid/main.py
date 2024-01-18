@@ -31,6 +31,6 @@ def main():
                     p *= int(matrix[i-k][j+k])
                 if p > max:
                     max = p
-    print(max)
+    return max
 
-main()
+print(main())

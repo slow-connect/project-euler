@@ -1,4 +1,3 @@
-n = 1000000
 
 def collatz(n, look_up):
     if n == 1:
@@ -18,25 +17,28 @@ def collatz(n, look_up):
         else:
             return 1 + collatz(3*n + 1, look_up)
 
+def main():
+    n = 1000000
 
 
-look_up = [0 for _ in range(n)]
-look_up[1] = 1
-length = [0 for _ in range(n)]
+    look_up = [0 for _ in range(n)]
+    look_up[1] = 1
+    length = [0 for _ in range(n)]
 
-max = 0
-max_num = 0
-for i in range(1, n):
-    x = collatz(i, look_up)
-    length[i] = x
-    if x > max:
-        max = x
-        max_num = i
-print(max_num)
+    max = 0
+    max_num = 0
+    for i in range(1, n):
+        x = collatz(i, look_up)
+        length[i] = x
+        if x > max:
+            max = x
+            max_num = i
+    return max_num, length
 
 
-# Set `True` to plot
-if False:
+def plot(length=main()[1]):
     import matplotlib.pyplot as plt
     plt.plot(length, '.')
     plt.show()
+
+print(main()[1])
