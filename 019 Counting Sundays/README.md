@@ -1,4 +1,4 @@
-# 19. Counting Sundays
+# 19. Counting Sundays - Project Euler
 
 [Website](https://projecteuler.net/problem=19)
 
